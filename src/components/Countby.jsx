@@ -9,3 +9,10 @@ const countBy = (scoopsArr) => {
 }
 
 export default countBy;
+
+// // const toObject = {}
+// for (let i = 0; i < products.length; i++) {
+//     let category = products.category
+//     toObject[category] ? toObject[category].append(category.id) : (toObject[category] = 1)
+// }
+// return toObject;
