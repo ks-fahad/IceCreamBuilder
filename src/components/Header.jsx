@@ -14,7 +14,7 @@ const Header = () => {
                     <span className='text-success'>Builder</span>
                 </Col>
                 <Col className="d-flex flex-row-reverse me-4">
-                    <div className='ps-2 my-auto h5'><strong>Mohammed Fahad Hossion</strong></div>
+                    <div className='ps-2 my-auto h5'><strong>Fahad Hossion</strong></div>
                     <img src={UserImage}
                         className='rounded-circle'
                         alt="User" style={{
